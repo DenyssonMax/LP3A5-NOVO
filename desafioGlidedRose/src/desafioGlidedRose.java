@@ -11,16 +11,16 @@ public static final String AGED_BRIE = "Aged Brie";
 public static final String BACKSTAGE_PASSES = "Backstage passes to a TAFKAL80ETC concert";
 public static final String SULFURAS = "Sulfuras, Hand of Ragnaros";
 public static final String CONJURED = "Conjured Mana Cake";
-Items[] items;
+items[] items;
 
 
-public desafioGlidedRose(Item[] items) {
+public desafioGlidedRose(item[] items) {
     this.items = items;
 }
 
 public void updateQuality() {
     for (int i = 0; i < items.length; i++) {
-        Item item = items[i];
+        item item = items[i];
         switch (item.name) {
             case AGED_BRIE:
                 updateAgedBrieQuality(i, item.sellIn, item.quality, 2);
