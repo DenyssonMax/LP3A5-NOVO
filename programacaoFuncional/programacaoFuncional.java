@@ -28,7 +28,29 @@ public class programacaoFuncional {
         System.out.println("\nJoining\n" + programacaoFuncional.getJoinedString(animals));
     }
 
-   
+    public static List<String> getList(String[] animals) {
+        return Stream.of(animals).collect(Collectors.toList());
+    }
+
+    public static Map<String, Integer> getMap(List<String> animalsList) {
+        Map<String, Integer> map = new HashMap<String, Integer>();
+
+        animalsList.stream().forEach((animal) -> map.put(animal, animal.length()));
+
+        return map;
+    }
+
+    public static Set<String> getSet(String[] animals) {
+        return Stream.of(animals).collect(Collectors.toSet());
+    }
+
+    public static Long getLength(String[] animals) {
+        return Stream.of(animals).collect(Collectors.counting());
+    }
+
+    public static String getJoinedString(String[] animals) {
+        return Stream.of(animals).collect(Collectors.joining());
+    }
 }
 
 
