@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 
 public class programacaoFuncional {
     public static void main(String[] args) {
-        String[] animals = {"Elefante", "Gato", "Cachorro", "Agua-viva"};
+        String[] animals = {"lagarto", "anta", "golfinho", "javali", "javali"};
 
         List<String> animalsList = programacaoFuncional.getList(animals);
         Set<String> animalsSet = programacaoFuncional.getSet(animals);
