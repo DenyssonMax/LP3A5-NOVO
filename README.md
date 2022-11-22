@@ -17,9 +17,9 @@ Repositório de atividades da disciplina de Liguagem de Programação III.      
 <body>
     <h1>Atividades</h1>
     <h3>:page_with_curl:Atividade 1</h3>
-    <p><a href=  >Produtor-consumidor versao 1</a></p>
+    <p><a href=  >Produtor Consumidor</a></p>
     <h3>:page_with_curl:Atividade 2</h3>
-    <p><a href=   >Produtor-consumidor versao 2</a></p>
+    <p><a href="https://github.com/DenyssonMax/LP3A5-NOVO/blob/main/programacaoFuncional"  >Programação Funcional</a></p>
     <h3>:page_with_curl:Atividade 3</h3>
     <p><a href="https://github.com/DenyssonMax/LP3A5-NOVO/blob/main/programa%C3%A7%C3%A3oConcorrente"  >Programação Concorrente</a></p>
     <h3>:page_with_curl:Atividade 4</h3>
