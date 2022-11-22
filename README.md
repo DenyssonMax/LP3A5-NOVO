@@ -4,7 +4,7 @@
 
 <!DOCTYPE html>
 
-# 🗃️ Repositório
+#  Repositório
 
 Esse repositório, apresenta os trabalhos desenvolvidos dentro da disciplina de Liguagem de Programação III , do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
 <html lang="en">
@@ -15,7 +15,7 @@ Esse repositório, apresenta os trabalhos desenvolvidos dentro da disciplina de 
     
 </head>
 <body>
-    <h1>💻Atividades</h1>
+    <h1>Atividades</h1>
     <h3>:page_with_curl:Produtor-consumidor</h3>
     <p><a href=  >Produtor-consumidor versao 1</a></p>
     <h3>:page_with_curl:Produtor-consumidor versao 2</h3>
