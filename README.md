@@ -6,7 +6,7 @@
 
 #  Repositório
 
-Esse repositório, apresenta os trabalhos desenvolvidos dentro da disciplina de Liguagem de Programação III , do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
+Repositório de atividades da disciplina de Liguagem de Programação III.                                                                                                    -Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS).                                                                                            -Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP.
 <html lang="en">
 <head>
     <meta charset="UTF-8">
