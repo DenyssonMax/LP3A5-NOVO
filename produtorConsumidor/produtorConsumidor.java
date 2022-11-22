@@ -1,3 +1,5 @@
+package produtorConsumidor;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ExecutorService;
@@ -8,7 +10,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 import javax.swing.JOptionPane;
 
-public class App {
+public class produtorConsumidor {
     static final int MAX_THREADS = 14;
 
     public static void main(final String[] args) throws Exception {
