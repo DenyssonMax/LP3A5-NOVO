@@ -16,15 +16,15 @@ Esse repositório, apresenta os trabalhos desenvolvidos dentro da disciplina de 
 </head>
 <body>
     <h1>Atividades</h1>
-    <h3>:page_with_curl:Produtor-consumidor</h3>
+    <h3>:page_with_curl:Atividade 1</h3>
     <p><a href=  >Produtor-consumidor versao 1</a></p>
-    <h3>:page_with_curl:Produtor-consumidor versao 2</h3>
+    <h3>:page_with_curl:Atividade 2</h3>
     <p><a href=   >Produtor-consumidor versao 2</a></p>
     <h3>:page_with_curl:Programação Concorrente</h3>
     <p><a href=   >Akka</a></p>
-    <h3>:page_with_curl:Programação funcional</h3>
+    <h3>:page_with_curl:Atividade 3</h3>
     <p><a href=  >Programação funcional</a></p>
-    <h3>:page_with_curl:Optional e Exception</h3>
+    <h3>:page_with_curl:Atividade 4</h3>
     <p><a href=   >Optional e Exception</a></p>
     
 </body>
