@@ -23,7 +23,7 @@ Repositório de atividades da disciplina de Liguagem de Programação III.      
     <h3>:page_with_curl:Atividade 3</h3>
     <p><a href="https://github.com/DenyssonMax/LP3A5-NOVO/blob/main/programa%C3%A7%C3%A3oConcorrente"  >Programação Concorrente</a></p>
     <h3>:page_with_curl:Atividade 4</h3>
-    <p><a href="https://github.com/DenyssonMax/LP3A5-NOVO/blob/main/optional%26Exception">Programação funcional</a></p>
+    <p><a href="https://github.com/DenyssonMax/LP3A5-NOVO/blob/main/optional%26Exception">Optional & Exception</a></p>
     <h3>:page_with_curl:Atividade 5</h3>
     <p><a href="https://github.com/DenyssonMax/LP3A5-NOVO/blob/main/desafioGlidedRose" > Desafio Glided Rose</a></p>
     
