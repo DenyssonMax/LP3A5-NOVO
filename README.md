@@ -29,7 +29,7 @@ Repositório de atividades da disciplina de Liguagem de Programação III.      
     
     
     <h3>:page_with_curl:Anotação das Aulas</h3>
-    <p><a href="https://github.com/DenyssonMax/LP3A5-NOVO/blob/main/desafioGlidedRose" > Desafio Glided Rose</a></p>
+    <p><a href=> Desafio Glided Rose</a></p>
     
 </body>
 </html>
