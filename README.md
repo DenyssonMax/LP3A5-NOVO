@@ -27,7 +27,7 @@ Repositório de atividades da disciplina de Liguagem de Programação III.      
     <h3>:page_with_curl:Atividade 5</h3>
     <p><a href="https://github.com/DenyssonMax/LP3A5-NOVO/blob/main/desafioGlidedRose"> Desafio Glided Rose</a></p>
     <h3>:page_with_curl: Anotação das Aulas</h3>
-    <p><a href= "https://www.notion.so/LP3A5-c1ba2eb75a734bdfa20ffa2aa5244e36"> Anotações </a></p>
+    <p><a href= "https://spiky-lake-b3d.notion.site/LP3A5-c1ba2eb75a734bdfa20ffa2aa5244e36"> Anotações </a></p>
     
 </body>
 </html>
